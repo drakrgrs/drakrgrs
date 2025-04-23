@@ -21,7 +21,6 @@ I'm a full stack developer and software engineering student with a passion for b
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
 - Instagram: [@drakedrogers](https://instagram.com/drakedrogers)
 
-## Fun Fact
 
 ## Fun Fact
 
