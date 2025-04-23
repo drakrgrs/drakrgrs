@@ -24,7 +24,9 @@ I'm a full stack developer and software engineering student with a passion for b
 
 ## Fun Fact
 
-When I’m not coding, I’m on my lanai in Hawaiʻi growing chili peppers and experimenting with homemade hot sauces. I love turning garden ingredients into dishes that could hold their own on a Michelin-starred menu — coding by day, chef by night.
+## Fun Fact
+
+When I’m not coding, I’m growing chili peppers on my lanai in Hawaiʻi and crafting hot sauces from scratch. It started as a hobby and turned into the inspiration for my next full-stack project — a hot sauce recipe tracker that blends my love for food, gardening, and building tools that actually get used.
 <!---
 drakrgrs/drakrgrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
