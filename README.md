@@ -18,11 +18,9 @@ I'm a full stack developer and software engineering student with a passion for b
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/drakrgrs)
 - Instagram: [@drakedrogers](https://instagram.com/drakedrogers)
 
-
-## Fun Fact
 
 ## Fun Fact
 
