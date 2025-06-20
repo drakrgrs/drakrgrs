@@ -4,8 +4,8 @@ I'm a full stack developer and software engineering student with a passion for b
 
 ## What I'm Working On
 
+- Launching my first iOS app to the app store, called Baby TapTime! Avaiable 06/2025 
 - Developing my personal portfolio using Next.js 15, Tailwind CSS, and TypeScript
-- Planning a full-stack hot sauce recipe tracker app to showcase CRUD, filtering, and user-authenticated content
 - Continuing to refine my React and Python fundamentals while writing clean, accessible UI components
 - Writing and sharing dev articles to document what I learn and help others starting out
 
